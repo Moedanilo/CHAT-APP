@@ -18,5 +18,7 @@ Using DaisyUI to be able to create an array of themes and make it usable to user
 
 Using Socket.IO for real time bi-directional comms
 
+Used Render.com to deploy website! Hooray!
+
 **NOTE: Adding into README as I learn and create FULL STACK WEB APP**
 
