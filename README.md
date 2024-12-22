@@ -16,5 +16,7 @@ Used cloudinary for media upload for chat and profile pic, then check for auth u
 
 Using DaisyUI to be able to create an array of themes and make it usable to user for enhanced UI experience.
 
+Using Socket.IO for real time bi-directional comms
+
 **NOTE: Adding into README as I learn and create FULL STACK WEB APP**
 
