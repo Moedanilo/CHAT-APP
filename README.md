@@ -14,5 +14,7 @@ Used JsonWebToken dependacy to create user tokens and pass for auth.
 
 Used cloudinary for media upload for chat and profile pic, then check for auth using token for user before processing any requests, ensuring security and auth access.
 
+Using DaisyUI to be able to create an array of themes and make it usable to user for enhanced UI experience.
+
 **NOTE: Adding into README as I learn and create FULL STACK WEB APP**
 
